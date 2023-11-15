@@ -10,5 +10,4 @@ Unicorn
 Yellow
 Red
 
-These are the colours of the rainbow and the unicorn
-Pony
+These are all the colours of the rainbow, the unicorn and the Pony's tail
